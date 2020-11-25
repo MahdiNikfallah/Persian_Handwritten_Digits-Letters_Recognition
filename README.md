@@ -35,6 +35,12 @@ keras (2.2.4)
 
 opencv (3.4)
 
-## Digit Recognition Cnn Architecture
+## Letter Recognition CNN Architecture
 
+![image](https://user-images.githubusercontent.com/52949602/100275764-af14ff00-2f75-11eb-97d9-ddfbc772620a.png)
+
+
+## Digit Recognition CNN Architecture
+
+![image](https://user-images.githubusercontent.com/52949602/100275775-b1775900-2f75-11eb-939e-d7263587f47a.png)
 
